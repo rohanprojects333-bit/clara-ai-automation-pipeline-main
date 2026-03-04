@@ -1,4 +1,10 @@
+# Details
+Rohan Siddharth
+22BCE9445
+siddharth.22bce9445@vitapstudent.ac.in
+
 # Clara AI Automation Pipeline
+
 
 Zero-cost, fully reproducible automation system for processing call transcripts into structured account memos, AI agent specifications, and version-controlled documentation.
 
